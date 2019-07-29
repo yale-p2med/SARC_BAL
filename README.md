@@ -6,9 +6,9 @@ Under the supplment folder, we provide the following supplementary files.
 
 1. Supervised analysis results:
 
-- lists of identified genes for the clinicla traits.
+-- lists of identified genes for the clinicla traits.
 
-- pathway enrichment analysis using GeneGO MetaCore for each gene list.
+-- pathway enrichment analysis using GeneGO MetaCore for each gene list.
 
 2. Unsupervised analysis results including the list of genes in each identified gene modules and their corresponding pathway enrichment analysis results.
 
