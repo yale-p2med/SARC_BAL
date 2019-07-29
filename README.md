@@ -4,7 +4,15 @@ We have conducted RNAseq analysis of the BAL samples from sarcoidosis patients r
 ## Supplementary Information Files
 Under the supplment folder, we provide the following supplementary files.
 
-1. RDS files that contains the all the data. These files can be directly loaded into R so that readers do not have to write their own codes to load in the data.
+1. Supervised analysis results:
+
+- lists of identified genes for the clinicla traits.
+
+- pathway enrichment analysis using GeneGO MetaCore for each gene list.
+
+2. Unsupervised analysis results including the list of genes in each identified gene modules and their corresponding pathway enrichment analysis results.
+
+3. RDS files that contains the all the data. These files can be directly loaded into R so that readers do not have to write their own codes to load in the data.
 
 2. Supplementary figures and tables.
 
