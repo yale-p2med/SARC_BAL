@@ -7,7 +7,7 @@ Under the supplment folder, we provide the following supplementary files.
 2. Supplementary figures and tables.
 
 ## R codes for the analysis
-Under the Rcodes folder, we provide the R codes that generate the figures in our manuscript.
+Under the ```Rcodes``` folder, we provide the R codes that generate the figures in our manuscript.
 
 
 
