@@ -1,0 +1,10 @@
+gene_names	x
+pvalue	1.67554822320083e-06
+corr_coef	NA
+fdr	0.0428286881332365
+pval_dir	1.67554822320083e-06
+fpkm>0_num	55
+fpkm>0.1_num	4
+fpkm>1_num	0
+fpkm_median	0
+fpkm_mean	0.0087390945320197
