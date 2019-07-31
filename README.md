@@ -4,9 +4,9 @@ We have conducted RNAseq analysis of the BAL samples from sarcoidosis patients r
 ## Supervised Analysis
 
 ### Gene Lists
-Under the Supervised_Analysis/gene_lists folder, we provide the list of associated genes identified for each given clinical trait. There are three types of association tests as follows:
+Under the `Supervised_Analysis/gene_lists` folder, we provide the list of associated genes identified for each given clinical trait. There are three types of association tests as follows:
 
-* Spearman test for continuous/ordinal clinical traits. Files are named as TraitName_spearman_fdr0.05.txt. For example, DLCO%PRED_
+* Spearman test for continuous/ordinal clinical traits. Files are named as TraitName_spearman_fdr0.05.txt. 
 
 * Wilcoxon rank sum test for binary clinical traits. Files are named as TraitName_wilcoxon_fdr0.05.txt.
 
