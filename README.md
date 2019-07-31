@@ -5,11 +5,14 @@ We have conducted RNAseq analysis of the BAL samples from sarcoidosis patients r
 
 ### Gene Lists
 Under the Supervised_Analysis/gene_lists folder, we provide the list of associated genes identified for each given clinical trait. There are three types of association tests as follows:
-* spearman test for continuous/ordinal clinical traits. Files are named as TraitName_spearman_fdr0.05.txt.
-* wilcoxon rank sum test for binary clinical traits. Files are named as TraitName_wilcoxon_fdr0.05.txt.
-* wilcoxon rank sum test to compare between 8 clinical phenotype groups with Non-acute Stage I, untreated, between the 4 SCADDING stages and SCADDING Stage I, and between the PFT% predicted high (>80%) and low (50% - 80%) groups. Since there are no genes with FDR<0.05 for most of these comparisons, we provide the list of genes with nominal p value<0.05 and fold change>2 or < -2. Files are named as DEGs_TraitName_pvalue0.05_FC2.0.txt. 
 
-The file names have the format of traitname_testname_fdr0.05.txt. These files are tab delimited text files that can be open in many programs, including Excel, R, and so on. The content in the files is self-explaned.
+* Spearman test for continuous/ordinal clinical traits. Files are named as TraitName_spearman_fdr0.05.txt. For example, DLCO%PRED_
+
+* Wilcoxon rank sum test for binary clinical traits. Files are named as TraitName_wilcoxon_fdr0.05.txt.
+
+* Wilcoxon rank sum test to compare between 8 clinical phenotype groups with Non-acute Stage I, untreated, between the 4 SCADDING stages and SCADDING Stage I, and between the PFT% predicted high (>80%) and low (50% - 80%) groups. Since there are no genes with FDR<0.05 for most of these comparisons, we provide the list of genes with nominal p value<0.05 and fold change>2 or < -2. Files are named as DEGs_TraitName_pvalue0.05_FC2.0.txt. 
+
+These files are tab delimited text files that can be open in many programs, including Excel, R, and so on. The content in the files is self-explaned.
 
 ## Supplementary Information Files
 Under the supplment folder, we provide the following supplementary files.
