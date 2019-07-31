@@ -1,1 +1,0 @@
-gene_names	pvalue	corr_coef	fdr	fpkm>0_num	fpkm>0.1_num	fpkm>1_num	fpkm_median	fpkm_mean
