@@ -12,29 +12,24 @@ Under the `Supervised_Analysis/gene_lists` folder, we provide the list of associ
 
 * Wilcoxon rank sum test to compare between 8 clinical phenotype groups with Non-acute Stage I, untreated, between the 4 SCADDING stages and SCADDING Stage I, and between the PFT% predicted high (>80%) and low (50% - 80%) groups. Since there are no genes with FDR<0.05 for most of these comparisons, we provide the list of genes with nominal p value<0.05 and fold change>2 or < -2. Files are named as DEGs_TraitName_pvalue0.05_FC2.0.txt. 
 
-These files are tab delimited text files that can be open in many programs, including Excel, R, and so on. The content in the files is self-explaned.
+These files are tab delimited text files that can be open in many programs, including Excel, R, and so on. The content in the files is self-explained.
 
-## Supplementary Information Files
-Under the supplment folder, we provide the following supplementary files.
+### Pathway Enrichment Analysis by MetaCore
+Under the `Unsupervised_Analysis/pathway_enrichment_metacore` folder, we provide the pathway enrichment analysis results for the gene lists under the `Supervised_Analysis/gene_lists` folder. Each gene list was divided into positive and negative lists based on the correlation coefficient. MetaCore was applied to both lists.
 
-1. Supervised analysis results:
+## Unsupervised Analysis
+Under the `Unsupervised_Analysis` folder, we provide the results for the unsupervised analysis.
 
-- lists of identified genes for the clinicla traits.
+### WGCNA gene modules
 
-- pathway enrichment analysis using GeneGO MetaCore for each gene list.
+### Pathway enrichment analysis of the gene modules
 
-2. Unsupervised analysis results including the list of genes in each identified gene modules and their corresponding pathway enrichment analysis results.
+## Data and R codes
+* FPKM matrix
+* Clinical trait data
+* R codes
 
-- list of genes in each identified gene module.
-
-- pathway enrichment analysis using GeneGO MetaCore for each gene module.
-
-3. RDS files that contains the all the data. These files can be directly loaded into R so that readers do not have to write their own codes to load in the data.
-
-2. Supplementary figures and tables.
-
-## R codes for the analysis
-Under the Rcodes folder, we provide the R codes that generate the figures in our manuscript.
-
-
-
+## Supplementary tables
+* Supplementary Table E1
+* Supplementary Table E2
+* Supplementary Table E3
