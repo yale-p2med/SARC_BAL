@@ -15,13 +15,13 @@ Under the `Supervised_Analysis/gene_lists` folder, we provide the list of associ
 These files are tab delimited text files that can be open in many programs, including Excel, R, and so on. The content in the files is self-explained.
 
 ### Pathway Enrichment Analysis by MetaCore
-Under the `Unsupervised_Analysis/pathway_enrichment_metacore` folder, we provide the pathway enrichment analysis results for the gene lists under the `Supervised_Analysis/gene_lists` folder. Each gene list was divided into positive and negative lists based on the correlation coefficient. MetaCore was applied to both lists.
+Under the `Supervised_Analysis/pathway_enrichment_metacore` folder, we provide the pathway enrichment analysis results for the gene lists under the `Supervised_Analysis/gene_lists` folder. Each gene list was divided into positive and negative lists based on the correlation coefficient. MetaCore was applied to both lists.
 
 ## Unsupervised Analysis
-Under the `Unsupervised_Analysis` folder, we provide the results for the unsupervised analysis.
+Under the `Unsupervised_Analysis` folder, we provide the results for the unsupervised analysis that identified gene modules using WGCNA and performed patient clustering using each module separately.
 
 ### WGCNA gene modules
-
+Under the `Unsupervised_Analysis` folder,
 ### Pathway enrichment analysis of the gene modules
 
 ## Data and R codes
