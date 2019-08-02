@@ -21,7 +21,7 @@ Under the `Supervised_Analysis/pathway_enrichment_metacore` folder, we provide t
 Under the `Unsupervised_Analysis` folder, we provide the results for the unsupervised analysis that identified gene modules using WGCNA and performed patient clustering using each module separately.
 
 ### WGCNA gene modules
-Under the `Unsupervised_Analysis` folder, the file `module_genelist.xls` provides the assignment of genes into the 48 gene modules identified by WGCNA. 
+Under the `Unsupervised_Analysis` folder, the file `module_genelist.xls` provides the assignment of genes into the 48 gene modules identified by WGCNA. Since before we removed genes with no variation (SD=0) across the 209 samples, there are 20828 genes/transcripts in this file. The tracking_ids has the format of `gene.name_tss.id`. The other columns are self-explained.
 
 ### Pathway enrichment analysis of the gene modules
 
