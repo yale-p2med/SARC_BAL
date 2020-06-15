@@ -1,6 +1,16 @@
 # Transcriptomics of Bronchoalveolar Lavage Cells Identifies New Molecular Endotypes of Sarcoidosis
 We have conducted RNAseq analysis of the BAL samples from sarcoidosis patients recruited by the GRADS study. This repository contains supplementary information files and the analytical codes for our study. 
 
+## Paper Supplement
+Under the Paper_Supplement folder, we provide the supplement files for our paper including the following files. 
+* Supplementary Table E1: `SupplTable_E1.xlsx`.
+
+* Supplementary Table E2: `SupplTable_E2.xlsx`.
+
+* Supplementary Table E3: `SupplTable_E3.xlsx`.
+
+
+
 ## Supervised Analysis
 
 ### Gene Lists
@@ -30,7 +40,3 @@ Under the `Unsupervised_Analysis` folder, the file `module_genelist.xls` provide
 * Clinical trait data
 * R codes
 
-## Supplementary tables
-* Supplementary Table E1
-* Supplementary Table E2
-* Supplementary Table E3
