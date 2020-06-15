@@ -27,14 +27,13 @@ These files are tab delimited text files that can be open in many programs, incl
 ### Overlapped Gene Lists
 Under the `Supervised_Analysis/overlap_genelists_2` folder, we provide the list of overlapped genes that are simultaneously associated with any two clinical traits. For each given pairs of clincal traits (trait1, traits), the corresponding result files include the following:
 
-* file named `\[trait1\]_VS_\[trait2\]_all.txt`. This file has all the genes that are significantly associated with both trait1 and trait2.
+* file named `[trait1]_VS_[trait2]_all.txt`. This file has all the genes that are significantly associated with both trait1 and trait2.
 
-* file named `\[trait1\]_VS_\[trait2\]_samedirection.txt`. This file has all the genes that are significantly associated with both trait1 and trait2 with the same direction. For example, genes that are positively associated with both traits.
+* file named `[trait1]_VS_[trait2]_samedirection.txt`. This file has all the genes that are significantly associated with both trait1 and trait2 with the same direction. For example, genes that are positively associated with both traits.
 
-* file named `\[trait1\]_VS_\[trait2\]_oppositedirection.txt`. This file has all the genes that are significantly associated with both trait1 and trait2 with the opposite direction. For example, genes that are positively associated with trait1 but negatively correlated with trait2.
+* file named `[trait1]_VS_[trait2]_oppositedirection.txt`. This file has all the genes that are significantly associated with both trait1 and trait2 with the opposite direction. For example, genes that are positively associated with trait1 but negatively correlated with trait2.
 
-* file named `\[trait1\]_VS_\[trait2\]_[dir1][dir2].txt`. This file has all the genes that are significantly associated with both trait1 and trait2 with directions described by dir1 and dir2. For example, genes that are positively associated with trait1 but negatively correlated with trait2.
-
+* file named `[trait1]_VS_[trait2]_[dir1][dir2].txt`. This file has all the genes that are significantly associated with both trait1 and trait2 with directions described by dir1 and dir2, respectively. For example, genes that are positively associated with trait1 but negatively correlated with trait2 can be found in `[trait1]_[trait2]_posneg.txt`.
 
 ### Pathway Enrichment Analysis by MetaCore
 Under the `Supervised_Analysis/pathway_enrichment_metacore` folder, we provide the pathway enrichment analysis results for the gene lists under the `Supervised_Analysis/gene_lists` folder. Each gene list was divided into positive and negative lists based on the correlation coefficient. MetaCore was applied to both lists.
