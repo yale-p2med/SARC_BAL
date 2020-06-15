@@ -1,0 +1,2 @@
+tracking_ID	pvalue (Neutrophil)	corr_coef (Neutrophil)	fdr (Neutrophil)	fpkm>0_num (Neutrophil)	fpkm>0.1_num (Neutrophil)	fpkm>1_num (Neutrophil)	fpkm_median (Neutrophil)	fpkm_mean (Neutrophil)	pvalue (SCADDING)	corr_coef (SCADDING)	fdr (SCADDING)	fpkm>0_num (SCADDING)	fpkm>0.1_num (SCADDING)	fpkm>1_num (SCADDING)	fpkm_median (SCADDING)	fpkm_mean (SCADDING)
+ZNF589_TSS14192	4.89271668651411e-05	-0.279642124424047	0.0498919062911351	209	209	209	24.3791	25.3879542583732	0.00029998410599325	-0.248237675087839	0.0445964743619036	209	209	209	24.3791	25.3879542583732

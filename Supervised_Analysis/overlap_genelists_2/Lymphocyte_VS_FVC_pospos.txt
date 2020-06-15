@@ -1,0 +1,2 @@
+tracking_ID	pvalue (Lymphocyte)	corr_coef (Lymphocyte)	fdr (Lymphocyte)	fpkm>0_num (Lymphocyte)	fpkm>0.1_num (Lymphocyte)	fpkm>1_num (Lymphocyte)	fpkm_median (Lymphocyte)	fpkm_mean (Lymphocyte)	pvalue (FVC)	corr_coef (FVC)	fdr (FVC)	fpkm>0_num (FVC)	fpkm>0.1_num (FVC)	fpkm>1_num (FVC)	fpkm_median (FVC)	fpkm_mean (FVC)
+RNF166_TSS25483,TSS33804,TSS9484	0.00188043457832855	0.215861188521884	0.0272945986693107	209	209	209	16.305	17.63394784689	9.25724730752266e-05	0.269611076415123	0.0493025562853145	209	209	209	16.305	17.63394784689

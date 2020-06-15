@@ -1,0 +1,2 @@
+tracking_ID	pvalue (DLCO)	corr_coef (DLCO)	fdr (DLCO)	fpkm>0_num (DLCO)	fpkm>0.1_num (DLCO)	fpkm>1_num (DLCO)	fpkm_median (DLCO)	fpkm_mean (DLCO)	pvalue (Gender)	corr_coef (Gender)	fdr (Gender)	pval_dir (Gender)	fpkm>0_num (Gender)	fpkm>0.1_num (Gender)	fpkm>1_num (Gender)	fpkm_median (Gender)	fpkm_mean (Gender)
+TTTY10_TSS23657	1.10304341850158e-07	0.366401937236571	0.000134182605566864	51	20	1	0	0.0296848822966507	1.51542697159764e-13	NA	1.55016055778666e-10	1.51542697159764e-13	51	20	1	0	0.0296848822966507

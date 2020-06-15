@@ -1,0 +1,2 @@
+tracking_ID	pvalue (Ground Glass)	corr_coef (Ground Glass)	fdr (Ground Glass)	fpkm>0_num (Ground Glass)	fpkm>0.1_num (Ground Glass)	fpkm>1_num (Ground Glass)	fpkm_median (Ground Glass)	fpkm_mean (Ground Glass)	pvalue (Race)	corr_coef (Race)	fdr (Race)	pval_dir (Race)	fpkm>0_num (Race)	fpkm>0.1_num (Race)	fpkm>1_num (Race)	fpkm_median (Race)	fpkm_mean (Race)
+PDGFD_TSS34467	8.05282503410563e-06	-0.307566967157219	0.0343063767827957	208	207	189	5.75421	7.77908326315789	0.000130286308573258	NA	0.0186990130624777	0.000130286308573258	208	207	189	5.75421	7.77908326315789

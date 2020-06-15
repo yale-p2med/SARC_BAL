@@ -1,0 +1,2 @@
+tracking_ID	pvalue (Macrophage)	corr_coef (Macrophage)	fdr (Macrophage)	fpkm>0_num (Macrophage)	fpkm>0.1_num (Macrophage)	fpkm>1_num (Macrophage)	fpkm_median (Macrophage)	fpkm_mean (Macrophage)	pvalue (DLCO)	corr_coef (DLCO)	fdr (DLCO)	fpkm>0_num (DLCO)	fpkm>0.1_num (DLCO)	fpkm>1_num (DLCO)	fpkm_median (DLCO)	fpkm_mean (DLCO)
+MMP12_TSS34111	5.9390910392789e-05	-0.276634179481808	0.00307305882702445	189	173	81	0.6856	1.56787286267943	6.55731490138482e-05	-0.279770528975894	0.0492685783737578	189	173	81	0.6856	1.56787286267943

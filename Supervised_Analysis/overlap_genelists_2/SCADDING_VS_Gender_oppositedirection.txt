@@ -1,0 +1,2 @@
+tracking_ID	pvalue (SCADDING)	corr_coef (SCADDING)	fdr (SCADDING)	fpkm>0_num (SCADDING)	fpkm>0.1_num (SCADDING)	fpkm>1_num (SCADDING)	fpkm_median (SCADDING)	fpkm_mean (SCADDING)	pvalue (Gender)	corr_coef (Gender)	fdr (Gender)	pval_dir (Gender)	fpkm>0_num (Gender)	fpkm>0.1_num (Gender)	fpkm>1_num (Gender)	fpkm_median (Gender)	fpkm_mean (Gender)
+RAB11FIP5_TSS31749	0.000261593397672361	-0.250585451250193	0.0426608877564835	206	206	165	1.44368	1.49655054066986	1.78775755659558e-05	NA	0.0111508107304436	1.78775755659558e-05	206	206	165	1.44368	1.49655054066986

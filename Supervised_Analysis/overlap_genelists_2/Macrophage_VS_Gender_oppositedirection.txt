@@ -1,0 +1,2 @@
+tracking_ID	pvalue (Macrophage)	corr_coef (Macrophage)	fdr (Macrophage)	fpkm>0_num (Macrophage)	fpkm>0.1_num (Macrophage)	fpkm>1_num (Macrophage)	fpkm_median (Macrophage)	fpkm_mean (Macrophage)	pvalue (Gender)	corr_coef (Gender)	fdr (Gender)	pval_dir (Gender)	fpkm>0_num (Gender)	fpkm>0.1_num (Gender)	fpkm>1_num (Gender)	fpkm_median (Gender)	fpkm_mean (Gender)
+TSPEAR-AS1_TSS3880	0.000179434030451067	-0.258767230635518	0.00699163605542642	204	195	104	0.999555	1.53174684641148	3.67430251472237e-05	NA	0.019575612126874	3.67430251472237e-05	204	195	104	0.999555	1.53174684641148

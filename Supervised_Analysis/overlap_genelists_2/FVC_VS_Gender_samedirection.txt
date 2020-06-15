@@ -1,0 +1,2 @@
+tracking_ID	pvalue (FVC)	corr_coef (FVC)	fdr (FVC)	fpkm>0_num (FVC)	fpkm>0.1_num (FVC)	fpkm>1_num (FVC)	fpkm_median (FVC)	fpkm_mean (FVC)	pvalue (Gender)	corr_coef (Gender)	fdr (Gender)	pval_dir (Gender)	fpkm>0_num (Gender)	fpkm>0.1_num (Gender)	fpkm>1_num (Gender)	fpkm_median (Gender)	fpkm_mean (Gender)
+TTTY10_TSS23657	2.84521245811531e-07	0.349311206217135	0.000242450037597532	51	20	1	0	0.0296848822966507	1.51542697159764e-13	NA	1.55016055778666e-10	1.51542697159764e-13	51	20	1	0	0.0296848822966507

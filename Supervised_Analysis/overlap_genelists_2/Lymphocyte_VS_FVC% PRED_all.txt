@@ -1,0 +1,2 @@
+tracking_ID	pvalue (Lymphocyte)	corr_coef (Lymphocyte)	fdr (Lymphocyte)	fpkm>0_num (Lymphocyte)	fpkm>0.1_num (Lymphocyte)	fpkm>1_num (Lymphocyte)	fpkm_median (Lymphocyte)	fpkm_mean (Lymphocyte)	pvalue (FVC% PRED)	corr_coef (FVC% PRED)	fdr (FVC% PRED)	fpkm>0_num (FVC% PRED)	fpkm>0.1_num (FVC% PRED)	fpkm>1_num (FVC% PRED)	fpkm_median (FVC% PRED)	fpkm_mean (FVC% PRED)
+MSMO1_TSS1279	0.00391363339105881	-0.2006732479721	0.0438179514274438	209	209	209	17.2428	19.5558519617225	1.5755275894716e-05	-0.300131151730422	0.0402547299109994	209	209	209	17.2428	19.5558519617225

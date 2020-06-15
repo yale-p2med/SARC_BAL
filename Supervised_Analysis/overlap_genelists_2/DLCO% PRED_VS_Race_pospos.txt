@@ -1,0 +1,2 @@
+tracking_ID	pvalue (DLCO% PRED)	corr_coef (DLCO% PRED)	fdr (DLCO% PRED)	fpkm>0_num (DLCO% PRED)	fpkm>0.1_num (DLCO% PRED)	fpkm>1_num (DLCO% PRED)	fpkm_median (DLCO% PRED)	fpkm_mean (DLCO% PRED)	pvalue (Race)	corr_coef (Race)	fdr (Race)	pval_dir (Race)	fpkm>0_num (Race)	fpkm>0.1_num (Race)	fpkm>1_num (Race)	fpkm_median (Race)	fpkm_mean (Race)
+DHX58_TSS19000	2.51182055439092e-05	0.293930425044554	0.0401122043657766	209	209	209	13.8032	14.1567756937799	3.74969820480368e-06	NA	0.00134825940357779	3.74969820480368e-06	209	209	209	13.8032	14.1567756937799
