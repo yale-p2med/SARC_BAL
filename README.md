@@ -38,6 +38,9 @@ Under the `Supervised_Analysis/overlap_genelists_2` folder, we provide the list 
 ### Pathway Enrichment Analysis by MetaCore
 Under the `Supervised_Analysis/pathway_enrichment_metacore` folder, we provide the pathway enrichment analysis results for the gene lists under the `Supervised_Analysis/gene_lists` folder. Each gene list was divided into positive and negative lists based on the correlation coefficient. MetaCore was applied to both lists.
 
+### Validated genes for FEV1% predicted and FVC% predicted
+Under the `Supervised_Analysis/validation_genelists`, we provide the two lists of genes that are associated with FEV1% predicted and FVC% predicted in both GRADS and Freiburg cohorts.
+
 ##
 
 ## Unsupervised Analysis
